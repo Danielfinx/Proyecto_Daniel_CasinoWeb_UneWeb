@@ -1,9 +1,9 @@
 <html>
     <head>
-        <title>index</title>
+        <title>CASINO</title>
     </head>
     <body>
-        <h3 align= "center">Home</h3>
+        <h3 align= "center">Casino Home</h3>
         <?php
             include ("menu.html");
         ?>
