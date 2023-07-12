@@ -1,0 +1,17 @@
+
+/********GLOBALES********/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+body {
+    font-family: 'monserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+/********MENU********/
+
+#menu #navbarNavAltMarkup {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+}
