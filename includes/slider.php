@@ -1,13 +1,13 @@
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active" data-bs-interval="5000">
-        <img src="img/casino.jpg" class="d-block w-100" alt="casino">
+        <img src="img/casino0.jpg" class="d-block w-100" alt="casino">
       </div>
       <div class="carousel-item" data-bs-interval="5000">
-        <img src="img/imagen 2.png" class="d-block w-100" alt="casino">
+        <img src="img/casino1.jpg" class="d-block w-100" alt="casino">
       </div>
       <div class="carousel-item" data-bs-interval="5000">
-        <img src="img/imagen 2.png" class="d-block w-100" alt="casino">
+        <img src="img/casino2.jpg" class="d-block w-100" alt="casino">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
